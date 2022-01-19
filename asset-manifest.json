@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a1aaf5a.css",
+    "main.js": "/static/js/main.eb7d4943.js",
+    "static/js/787.8c081f57.chunk.js": "/static/js/787.8c081f57.chunk.js",
+    "static/media/Me.jpeg": "/static/media/Me.5bb87e067336e8b5bdf4.jpeg",
+    "static/media/marketplace.png": "/static/media/marketplace.f268174a8a4171ded074.png",
+    "static/media/resume.pdf": "/static/media/resume.e010e37520c7f4b1b555.pdf",
+    "static/media/README.png": "/static/media/README.423ea2ac56f02199b24c.png",
+    "static/media/employee-tracker.png": "/static/media/employee-tracker.dc50a024e58b52eb9828.png",
+    "static/media/reddit.png": "/static/media/reddit.25dc0085a84ab38adf43.png",
+    "static/media/github.png": "/static/media/github.6149aa5ccbc036755594.png",
+    "static/media/team-builder.png": "/static/media/team-builder.d6dcae37d1736d211f1e.png",
+    "static/media/portfolio.png": "/static/media/portfolio.21da8e61ba3b6be98fbe.png",
+    "static/media/twitter.png": "/static/media/twitter.894988327f8d68209e91.png",
+    "static/media/linkedin.png": "/static/media/linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/index.html",
+    "main.7a1aaf5a.css.map": "/static/css/main.7a1aaf5a.css.map",
+    "main.eb7d4943.js.map": "/static/js/main.eb7d4943.js.map",
+    "787.8c081f57.chunk.js.map": "/static/js/787.8c081f57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a1aaf5a.css",
+    "static/js/main.eb7d4943.js"
+  ]
+}
