@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.7a1aaf5a.css",
+    "main.js": "/react-portfolio/static/js/main.5145e3ea.js",
+    "static/js/787.8c081f57.chunk.js": "/react-portfolio/static/js/787.8c081f57.chunk.js",
+    "static/media/Me.jpeg": "/react-portfolio/static/media/Me.5bb87e067336e8b5bdf4.jpeg",
+    "static/media/marketplace.png": "/react-portfolio/static/media/marketplace.f268174a8a4171ded074.png",
+    "static/media/resume.pdf": "/react-portfolio/static/media/resume.e010e37520c7f4b1b555.pdf",
+    "static/media/README.png": "/react-portfolio/static/media/README.423ea2ac56f02199b24c.png",
+    "static/media/employee-tracker.png": "/react-portfolio/static/media/employee-tracker.dc50a024e58b52eb9828.png",
+    "static/media/reddit.png": "/react-portfolio/static/media/reddit.25dc0085a84ab38adf43.png",
+    "static/media/github.png": "/react-portfolio/static/media/github.6149aa5ccbc036755594.png",
+    "static/media/team-builder.png": "/react-portfolio/static/media/team-builder.d6dcae37d1736d211f1e.png",
+    "static/media/portfolio.png": "/react-portfolio/static/media/portfolio.21da8e61ba3b6be98fbe.png",
+    "static/media/twitter.png": "/react-portfolio/static/media/twitter.894988327f8d68209e91.png",
+    "static/media/linkedin.png": "/react-portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.7a1aaf5a.css.map": "/react-portfolio/static/css/main.7a1aaf5a.css.map",
+    "main.5145e3ea.js.map": "/react-portfolio/static/js/main.5145e3ea.js.map",
+    "787.8c081f57.chunk.js.map": "/react-portfolio/static/js/787.8c081f57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a1aaf5a.css",
+    "static/js/main.5145e3ea.js"
+  ]
+}
