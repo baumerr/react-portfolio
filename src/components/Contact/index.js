@@ -39,8 +39,13 @@ function Contact() {
   }
 
   return (
-    <section>
-      <form id="contact-form" onSubmit={handleSubmit}>
+    <section className="contact row">
+      <div className="contact col-2 mx-auto">
+        <a className="btn btn-light email" href="mailto: randy.baumer@hotmail.com" role="button">Email Me!</a>
+      </div>
+      
+      
+      {/* <form id="contact-form" onSubmit={handleSubmit}>
         <div className="words">
           <label htmlFor="name">Name:</label>
           <br></br>
@@ -83,7 +88,7 @@ function Contact() {
             Submit
           </button>
         </div>
-      </form>
+      </form> */}
     </section>
   );
 }

@@ -36,6 +36,7 @@ function Projects () {
                         <h5 className="card-title">Buy and Sell Marketplace</h5>
                         <p className="card-text">A Web App that lets users signup, post items, message users using Sequelize and Express.</p>
                         <a href="https://github.com/Qcent/project-poseidon" className="btn btn-primary">GitHub Repo</a>
+                        <a href="https://project-team-poseidon.herokuapp.com/" className="btn btn-primary">Deployed Link</a>
                     </div>
                 </div>
             </div>
@@ -57,6 +58,7 @@ function Projects () {
                         <h5 className="card-title">Blog Site</h5>
                         <p className="card-text">A Web App that lets users signup, post blogs, upvote using Sequelize, Express and Handlebars.</p>
                         <a href="https://github.com/baumerr/best-social-media" className="btn btn-primary">GitHub Repo</a>
+                        <a href="https://pacific-plains-96288.herokuapp.com/" className="btn btn-primary">Deployed Link</a>
                     </div>
                 </div>
 
