@@ -69,8 +69,16 @@ textarea {
   background-color: #2f97c1;
 }
 
+.infoD {
+  font-size: 20px;
+}
+
 .about {
   padding: 20px;
+}
+
+.aboutText {
+  font-size: 18px;
 }
 
 .btn {

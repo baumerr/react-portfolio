@@ -4,22 +4,37 @@ import Me from '../../assets/Me.jpeg'
 function About () {
     return (
         <section>
-            <div className='about'>
-            <p>
-                My name is Randal Baumer and I am a Junior Web Developer. I first began my journey with programming when
-                I was 15, developing small Java games in high school. It was there that I really fell in love with the "logical"
-                nature of coding. After highschool however I decided to follow my dreams to be an actor. Now 7 years after I
-                left high school, I found myself wanting to go back and learn how to create applications, how to create webpages,
-                how technology actually works from a fundamental level. 
-                <br></br><br></br>
-                Browser based applications are the future. As our society spends more of our time online, we spend more of our
-                time actually in the browser as opposed to dedicated applications. And with the rise of web3 and blockchain enabled
-                websites, this trend will only continue to grow.
-                <br></br><br></br>
-                I love art, I love tech. I am an extremely creative person who looks at problems from a different lense. 
-            </p>
+            <div className='about row'>
+                <div className='col'>
+                    <p className='aboutText'>
+                        My name is Randal Baumer, and I am a Junior Web Developer. I began my journey with programming when I was 15. 
+                        I was developing simple Java games in high school. I fell in love with the logical nature of coding. 
+                        However, after high school, I knew I wanted to explore my passion for acting. While I continued to pursue acting, 
+                        I had the urge to revisit and explore coding. I found myself going back to learn how technology works on a 
+                        fundamental level and to create applications and web pages. 
+                        <br></br><br></br>
+                        Browser-based applications are the future. As our society spends more time online, we spend more time in the 
+                        browser and less on dedicated applications. I believe with the rise of Web3 and blockchain-enabled sites, 
+                        this trend will only continue to grow.
+                        <br></br><br></br>
+                        I love art and I love tech. I believe my ability to approach in both a logical and creative manner allows 
+                        me address problems and solutions with a different perspective. I am keen to teach others and eager to be 
+                        taught as the world is a dynamic place - especially in this field. 
+                        <br></br><br></br>
+                        Drop me a line if you want to talk crypto, film or coffee!
+                        <br></br><br></br>
+                        Cheers,
+                        <br></br>
+                        Randal
+                    </p>
+                </div>
+                <div className='col'>
+                    <img src={Me} alt='Randal Baumer' width='100%' height='100%'></img>
+                </div>
 
-            <img src={Me} alt='Randal Baumer' width='75%' height='75%'></img>
+            
+
+            
         </div>
         </section>
         

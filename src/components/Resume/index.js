@@ -1,16 +1,8 @@
 import React from "react";
-import resume from "../../assets/resume.pdf";
 
 function Resume() {
   return (
     <section>
-      <div className="words">
-        <a download={resume} href={resume}>
-          <button type="button" className="btn btn-light">
-            Download Resume
-          </button>
-        </a>
-      </div>
 
       <div>
         <h3>Front End Technologies</h3>

@@ -11,7 +11,7 @@ function Content({ currentCategory }) {
       {name === "About" && (
         <div className="info">
           <h4 className="info">{name}</h4>
-          <h6 className="info">{description}</h6>
+          <h6 className="info infoD">{description}</h6>
           <About />
         </div>
       )}
@@ -19,7 +19,7 @@ function Content({ currentCategory }) {
       {name === "Projects" && (
         <div className="info">
           <h4 className="info">{name}</h4>
-          <h6 className="info">{description}</h6>
+          <h6 className="info infoD">{description}</h6>
           <Projects />
         </div>
       )}
@@ -27,7 +27,7 @@ function Content({ currentCategory }) {
       {name === "Contact" && (
         <div className="info">
           <h4 className="info">{name}</h4>
-          <h6 className="info">{description}</h6>
+          <h6 className="info infoD">{description}</h6>
           <Contact />
         </div>
       )}
@@ -35,7 +35,7 @@ function Content({ currentCategory }) {
       {name === "Resume" && (
         <div className="info">
           <h4 className="info">{name}</h4>
-          <h6 className="info">{description}</h6>
+          <h6 className="info infoD">{description}</h6>
           <Resume />
         </div>
       )}
